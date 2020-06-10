@@ -2,7 +2,7 @@
 <!--Exercice 5 Variable-->
 <?php 
     $title = 'Exercice 5';
-     include 'header.php';
+     include '../header.php';
 
 ?>
 
@@ -11,5 +11,5 @@
     <p> <?php echo 'On y arrive presque';  ?> </p>
 <?php }
 
-    include 'footer.php';
+    include '../footer.php';
 ?>

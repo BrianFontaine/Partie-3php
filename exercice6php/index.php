@@ -1,7 +1,7 @@
 <!--Exercice 6 Variable-->
 <?php 
     $title = 'Exercice 6';
-    include 'header.php';
+    include '../header.php';
 ?>
 
 <h2>Exercice 6</h2>
@@ -9,5 +9,5 @@
     <p> <?php echo 'C\'est presque bon'; ?> </p>
 <?php }
 
-    include 'footer.php';
+    include '../footer.php';
 ?>

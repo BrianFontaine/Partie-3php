@@ -1,7 +1,7 @@
 <!--Exercice 4 Variable-->
 <?php 
     $title = 'Exercice 4';
-    include 'header.php';
+    include '../header.php';
 
     $i = 1;
 ?>
@@ -12,5 +12,5 @@
 <?php $i += $i / 2 ;
     }
 
-    include 'footer.php';
+    include '../footer.php';
 ?>
